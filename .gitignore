@@ -1,0 +1,9 @@
+target/*
+.settings
+.classpath
+*.class
+*.zip
+*.tar
+*.db
+*~
+/target/
