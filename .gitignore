@@ -7,3 +7,5 @@ target/*
 *.db
 *~
 /target/
+*.inhouse.properties
+.project
